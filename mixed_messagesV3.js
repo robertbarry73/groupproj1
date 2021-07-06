@@ -1,7 +1,7 @@
 const StarWarsNames = {
     //create arrays
-    planetName: ['Tatooine','Corusant','Hoth','Naboo','Mustafar','Yavin','Alderan','Bespin','Corrella'],
-    forceOrDark: ['May the Force be with you.','The dark side of the force is strong in this one.']
+    planetName: ['Tatooine','Corusant','Hoth','Naboo','Mustafar','Yavin','Alderan','Bespin','Corrella','earth'],
+    forceOrDark: ['May the Force be with you.','The dark side of the force is strong in this one.','Yoda is awesome']
 };
 
 // random letter arrays
